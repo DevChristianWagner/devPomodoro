@@ -1,7 +1,7 @@
 
 <h1 align="center">Pomodoro App</h1>
 
-Esse projeto foi feito com o intuito de evoluir meus conhecimentos com Javascript. O app inicia uma seção de estudos com pausas.
+Esse projeto foi feito com o intuito de evoluir meus conhecimentos com Javascript. O app inicia uma seção de estudos de 25 minutos e pausa de 5 minutos.
 
 
 
